@@ -1,0 +1,4 @@
+﻿  21520643_TH_04_CayNhiPhan.cpp
+E:\IDE\CTDL&GT\21520643_TH_04_CayNhiPhan\21520643_TH_04_CayNhiPhan\21520643_TH_04_CayNhiPhan.cpp(40): warning C4715: 'InsertNode': not all control paths return a value
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+E:\IDE\CTDL&GT\21520643_TH_04_CayNhiPhan\Debug\21520643_TH_04_CayNhiPhan.exe : fatal error LNK1120: 1 unresolved externals

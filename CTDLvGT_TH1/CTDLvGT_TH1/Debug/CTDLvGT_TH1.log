@@ -1,0 +1,2 @@
+﻿  CTDLvGT_TH1.cpp
+E:\IDE\Vs Studio\CTDLvGT_TH1\CTDLvGT_TH1\CTDLvGT_TH1.cpp(218): error C4700: uninitialized local variable 'p' used
